@@ -1,0 +1,5 @@
+{
+  "/thqconnect/login/platformLogin": [0, ""],
+  "/thqconnect/login/ssoStatus": [0, "", "", "LocalPlayer", 0, []],
+  "/thqconnect/news/getNews": [0, []]
+}

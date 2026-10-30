@@ -1,0 +1,4 @@
+# Tested with Python 3.12 x64 on Windows.
+cryptography==50.0.2
+cffi==2.1.1
+pycparser==3.11
